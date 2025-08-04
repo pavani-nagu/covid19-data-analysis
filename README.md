@@ -1,30 +1,34 @@
-# COVID-19 Data Analysis 📊
+# 🦠 COVID-19 Data Analysis - Excel Dashboard
 
-## 📁 Project Overview
-This project analyzes COVID-19 data from multiple countries using Microsoft Excel. It demonstrates how data can be cleaned, visualized, and turned into insights using pivot tables and charts.
+## 📊 Project Overview
+This project analyzes COVID-19 trends across five countries using Microsoft Excel. It includes interactive pivot tables, charts, and slicers to provide meaningful insights from public-like sample data.
+
+## 📁 Files Included
+- `COVID19_Analysis_Sample.xlsx` – Cleaned dataset with COVID-19 data for India, USA, Brazil, UK, and Germany
+- `covid_dashboard.png` – Screenshot of the Excel dashboard showing charts and slicers
+- `README.md` – This documentation
 
 ## 🔧 Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Charts & Graphs
-- Slicers and Filters
+- Microsoft Excel (Pivot Tables & Charts)
+- Slicers for interactive filtering
+- Data cleaning and visualization
 
-## 📈 Key Features
-- Country-wise comparison of total and new cases
-- Monthly trend analysis using line and bar charts
-- Interactive slicers to filter data by country and date
-- Simple and effective dashboard view
+## 📈 Key Insights from Dashboard
+- 📅 Daily new cases trend over time
+- 🌍 Total and new cases by country (pie charts)
+- ⚰️ Total deaths comparison (bar chart)
+- 🔘 Slicer for filtering by country
 
-## 📊 Sample Insights
-- India vs USA daily cases trends
-- Top 5 affected countries by total deaths
-- Month-over-month case spikes
+## 📸 Dashboard Preview
+![COVID Dashboard](covid_dashboard.png)
 
-## 👤 About Me
-I'm Pavani Nagu, an aspiring Data Analyst skilled in Excel, Power BI, Python, and Tableau. This is one of my hands-on projects to explore public datasets and apply my analytics skills.
+## 🌐 Dataset Info
+This is a sample dataset generated for practice purposes, inspired by publicly available COVID-19 data from [Our World in Data](https://ourworldindata.org/covid-deaths).  
+No sensitive or private data is included.
 
-👉 [Connect with me on LinkedIn](https://www.linkedin.com/in/pavani-nagu-yarramsetti-2b64bb263)
+## 👩‍💻 About Me
+I'm **Pavani Nagu**, an aspiring Data Analyst with skills in Excel, Power BI, Tableau, and Python. This project demonstrates my ability to build visual dashboards, analyze real-world data, and present insights effectively.
 
-## 📂 Dataset Source
-[Our World in Data - COVID-19 Dataset](https://ourworldindata.org/covid-deaths)
+---
 
+⭐ **Thank you for viewing this project!** Feel free to connect with me on [GitHub](https://github.com/pavani-nagu) or [LinkedIn](https://linkedin.com/in/pavani-nagu-yarramsetti-2b64bb263).
