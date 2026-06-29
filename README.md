@@ -1,3 +1,4 @@
+<img width="1698" height="936" alt="covid_dashboard" src="https://github.com/user-attachments/assets/33fda206-dee4-40cf-98ab-114edb0e3a7a" />
 # 🦠 COVID-19 Data Analysis - Excel Dashboard
 
 ## 📊 Project Overview
